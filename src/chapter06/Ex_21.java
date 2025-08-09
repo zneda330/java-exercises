@@ -1,3 +1,5 @@
+package chapter06;
+
 class MyTv {
     boolean isPowerOn;
     int channel;

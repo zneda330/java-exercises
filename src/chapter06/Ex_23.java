@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_23 {
     public static int max(int[] arr){
         if(arr==null || arr.length==0){

@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_22 {
     public static boolean isNumber(String str){
        if (str==null || str.equals(""))

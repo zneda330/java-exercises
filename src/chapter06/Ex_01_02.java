@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_01_02 {
     public static void main(String[] args) {
         SutdaCard card1 = new SutdaCard(3, false);

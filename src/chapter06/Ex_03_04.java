@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_03_04 {
     public static void main(String[] args) {
         Student s = new Student();

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package chapter06;
 
 class MyPoint {
     int x;

@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_18 {
 
 }

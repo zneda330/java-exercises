@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_19 {
     public static void change(String str) {
         str += "456";

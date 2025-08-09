@@ -1,3 +1,5 @@
+package chapter06;
+
 public class Ex_20 {
 
     public static int[] shuffle(int[] arr){
